@@ -141,7 +141,9 @@
 <script>
   window.onload = function () {
     const loading = document.querySelector("#loading")
-    loading.style.display = "none"
+    setTimeout(() => {
+      loading.style.display = "none"
+    }, 300)
   }
 </script>
 
