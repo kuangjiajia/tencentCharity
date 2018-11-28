@@ -45,7 +45,7 @@
 .progress-bar
   display block
   width 90%
-  height 1.1vw
+  height 1.4vw
   background-color $bg-color-highlight
   color #ee503f
   &::-webkit-progress-bar
