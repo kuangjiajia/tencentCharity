@@ -1,7 +1,7 @@
 <template lang="pug">
   header
     div.banner
-      img.banner-img(src="@assets/banner1.png")
+      img.banner-img(src="@assets/banner.png")
       img.logo(src="@assets/logo.png")
 </template>
 <script>

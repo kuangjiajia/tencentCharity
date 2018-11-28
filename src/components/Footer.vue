@@ -14,5 +14,5 @@ export default {
     .footer-texture
       width 100%
       height 2.67vw
-      background-color #23262d
+      background-color $bg-color-highlight
 </style>

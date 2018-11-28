@@ -23,8 +23,9 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
-  .charity-page
-    min-height 100vh
-    background-color #292d36
+
+.charity-page
+  min-height 100vh
+  background-color #292d36
 
 </style>
