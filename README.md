@@ -1,17 +1,23 @@
-**tencent笔试**
+##tencent笔试
 
-> 基于vue-cli,stylus,pugjs
+#### 项目说明
 
-**端口** 8899
+* 基于vue-cli,stylus,pugjs
 
-**运行**
+* 端口 8899
 
-```javascript
+* 运行
+
+  ```
   cnpm install
   npm run dev
-```
+  ```
 
 **在线地址**
 
 [https://kuangjiajia.github.io/tencentCharity/dist/index.html](https://kuangjiajia.github.io/tencentCharity/dist/index.html)
+
+#### 个人信息
+
+匡俊嘉，重庆邮电大学20届，2019年1月底起实习三个月。
 
